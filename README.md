@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Microservices in Go](<Private link -Enterprise Policies->)
 
-- 🌱 I’m currently learning **Go, NextJs, React**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Any Startup project**
 
-- 💬 Ask me about **React & Remix, Go, C#, Oracle, Js / Ts**
+- 💬 Ask me about **React & Remix | React Router v7, Go, C#, Oracle, Js / Ts**
 
 - 📫 How to reach me **erikchacon@gmail.com**
 
